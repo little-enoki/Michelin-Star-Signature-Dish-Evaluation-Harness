@@ -1,0 +1,135 @@
+{
+  "French": [
+    {
+      "restaurant": "Daniel",
+      "dishes": [
+        "Castroville artichoke ravioli with barigoule consomme",
+        "Pacific ikejima black cod with cauliflower cream and beluga lentils"
+      ],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/daniel"
+    },
+    {
+      "restaurant": "Per Se",
+      "dishes": ["Oysters and Pearls", "grand dessert tasting finale"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/per-se"
+    },
+    {
+      "restaurant": "Le Bernardin",
+      "dishes": ["yellowfin tuna pounded thin over toasted baguette smeared with foie gras"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-bernardin"
+    },
+    {
+      "restaurant": "Orsay",
+      "dishes": ["chicken liver mousse", "artichaut vinaigrette", "profiteroles"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/orsay"
+    },
+    {
+      "restaurant": "Le Veau d'Or",
+      "dishes": ["pate en croute", "poulet a l'estragon (roasted chicken with tarragon sauce)"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-veau-d-or"
+    },
+    {
+      "restaurant": "Jean-Georges",
+      "dishes": ["spiced duck breast with lovage and mezcal-mustard emulsion"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jean-georges"
+    }
+  ],
+  "Italian": [
+    {
+      "restaurant": "Emilio's Ballato",
+      "dishes": ["pollo Emilio breaded chicken cutlet with lemon-caper sauce", "clams oreganata with garlicky breadcrumbs"],
+      "source": "https://guide.michelin.com/gb/en/new-york-state/new-york/restaurant/emilio-s-ballato"
+    },
+    {
+      "restaurant": "Ulivo",
+      "dishes": ["bottarga di muggine di Cabras shaved over pici", "seadas fritter with pecorino and honey"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ulivo"
+    },
+    {
+      "restaurant": "Norma Gastronomia Siciliana",
+      "dishes": ["arancini with ragu, peas, mozzarella and rice in chicken stock, tomato sauce"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/norma-gastronomia-siciliana"
+    },
+    {
+      "restaurant": "Santi",
+      "dishes": ["orecchiette with blue crab and sea urchin", "pan-roasted veal chop with pancetta-wrapped charred radicchio"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/santi"
+    },
+    {
+      "restaurant": "Marea",
+      "dishes": ["diced branzino crudo with pistachio and crispy garlic and shallot"],
+      "source": "https://guide.michelin.com/en/new-york-state/new-york/restaurant/marea"
+    }
+  ],
+  "Contemporary": [
+    {
+      "restaurant": "The Modern",
+      "dishes": ["eggs on eggs on eggs, poached egg with caviar and brioche"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-modern"
+    },
+    {
+      "restaurant": "Estela",
+      "dishes": ["ricotta dumplings with mushrooms", "arroz negro with squid and hazelnuts"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/estela"
+    },
+    {
+      "restaurant": "Nudibranch",
+      "dishes": ["signature mushroom dish", "dry-aged branzino with Korean sweet potato and beurre blanc"],
+      "source": "https://guide.michelin.com/gb/en/new-york-state/new-york/restaurant/nudibranch"
+    }
+  ],
+  "Korean": [
+    {
+      "restaurant": "Octo",
+      "dishes": ["beef tangsuyuk", "cumin pork back ribs", "pork and Thai chili soup dumplings with caviar"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/octo-1212173"
+    },
+    {
+      "restaurant": "Jungsik New York",
+      "dishes": [
+        "raw striped jack with white kimchi and chilled fish bone broth",
+        "crisped octopus with gochujang aioli",
+        "dry-aged Arctic char with kimchi and red curry sauce",
+        "mandoo filled with foie gras draped in Wagyu beef in Wagyu broth"
+      ],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jungsik-new-york"
+    },
+    {
+      "restaurant": "Hyun",
+      "dishes": ["Hyun-makase 12-piece Japanese A5 Wagyu with house-made kimchi and scallion salad"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/hyun"
+    },
+    {
+      "restaurant": "Noksu",
+      "dishes": ["dry-aged squab prepared tableside Peking-duck style with hot oil"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/noksu"
+    }
+  ],
+  "Japanese": [
+    {
+      "restaurant": "Sushi Yasuda",
+      "dishes": ["classically assembled omakase sushi"],
+      "source": "https://guide.michelin.com/gb/en/new-york-state/new-york/restaurant/sushi-yasuda"
+    },
+    {
+      "restaurant": "Sushi Nakazawa",
+      "dishes": ["omakase sushi with nikiri brush technique and seasoned rice"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-nakazawa"
+    },
+    {
+      "restaurant": "Sushi Sho",
+      "dishes": ["fermentation-forward omakase progression of fish, shellfish and vegetables"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-sho-1213976"
+    },
+    {
+      "restaurant": "Sobaya",
+      "dishes": ["signature buckwheat soba"],
+      "source": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/soba-ya"
+    },
+    {
+      "restaurant": "Tempura Matsui",
+      "dishes": ["tempura omakase"],
+      "source": "https://guide.michelin.com/gb/en/new-york-state/new-york/restaurant/tempura-matsui"
+    }
+  ]
+}
