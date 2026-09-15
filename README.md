@@ -1,4 +1,4 @@
-# Michelin Star Signature Dish Eval Harness
+# ☁️ Michelin Star Signature Dish Eval Harness
 
 An eval harness that grades a model's claims about the signature dishes of Michelin-recognized NYC restaurants against a real reference set pulled from the MICHELIN Guide. Measures restaurant coverage, dish faithfulness (is the claimed dish the real one, or a fabrication?), and flags unverified restaurant mentions for manual review rather than auto-failing them.
 
